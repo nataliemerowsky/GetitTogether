@@ -1,0 +1,125 @@
+
+
+.header{
+	height: 2000px;
+	border: 2px solid grey;
+	background-image: url("/Users/nataliemerowsky/Desktop/my_websiteNM/images/Toppic.jpg");
+	background-size: cover;
+	background-position: center;
+	box-shadow: inset 0 0 0 1800px rgba(0,0,0,.5);
+
+}
+
+h1{
+	font-family: 'Nunito', sans-serif;
+	text-align: center;
+	font-size: 150px;
+	color: #F0EA47;
+	padding-top: 50px;
+}
+
+
+h2{
+	    font-family:'Open Sans', sans-serif;
+			font-size: 52px;
+			font-weight: bold;
+			color: #F0EA47;
+	}
+
+h3{
+	  font-family:'Open Sans', sans-serif;
+		font-size: 72px;
+		-webkit-margin-after: 0em;
+	  -webkit-margin-before: 0em;
+		text-align: center;
+		}
+h4{
+	font-family:'Open Sans', sans-serif;
+	font-size: 48px;
+}
+h5{
+	font-family:'Open Sans', sans-serif;
+	font-size: 48px;
+	text-align: center;
+	color: #F0EA47
+
+}
+
+p{
+	font-family:'Open Sans', sans-serif;
+	font-size: 32px;
+	display: inline;
+	text-align:inherit;
+
+	}
+
+.jumbo{
+	height:1200px;
+	border: 2px solid #BDC1BB;;
+	text-align: center;
+	background-color: #BDC1BB;
+	display: flex;
+	justify-content: center;
+}
+.calendar{
+	padding-right: 80px;
+}
+
+.location{
+	font-family:'Open Sans', sans-serif;
+	padding-right: 80px;
+}
+
+.feature{
+	font-family: 'Open Sans', sans-serif;
+	align-content: center;
+	background-color: #BDC1BB;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.vidtext{
+	padding-top: 150px;
+	padding-bottom: 25px;
+}
+
+.video{
+	height: 1700px;
+	border: 2px solid white;
+	text-align: center;
+	padding-top: 40px;
+}
+
+.bottom{
+	height: 1800px;
+	border: 2px solid #4A4A4A;
+	background-image: url("file:///Users/nataliemerowsky/Desktop/my_websiteNM/images/Group%208.png");
+	background-size: cover;
+	background-position: center;
+	box-shadow: inset 0 0 0 1800px rgba(0,0,0,.5);
+
+}
+
+.buttons{
+	padding: 1400px 100px 75px 2350px;
+
+}
+
+.footer{
+	height: 250px;
+	border: 2px solid #4A4A4A;
+	background-color: #4A4A4A;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	padding-left: 50px;
+
+
+}
+
+.footbar{
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+	padding: 75px 100px 75px 2000px;
+}
