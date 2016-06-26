@@ -1,3 +1,1 @@
 # GetitTogether
-# GetitTogether
-# GetitTogether
